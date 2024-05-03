@@ -1,5 +1,5 @@
 
- I’m interested in marine diseases, disease ecology, data science leveraged for conservation and ecology work
+ I’m interested in marine diseases, disease ecology, and data science leveraged for conservation and ecology work
 
 danielle.lee.cantrell@gmail.com
 
