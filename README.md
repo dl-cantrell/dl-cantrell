@@ -1,7 +1,7 @@
 
  I’m interested in marine diseases, disease ecology, data science leveraged for conservation and ecology work
--danielle.lee.cantrell@gmail.com
--Pronouns: she/her/her
+--danielle.lee.cantrell@gmail.com
+--Pronouns: she/her/her
 
 
 <!---
